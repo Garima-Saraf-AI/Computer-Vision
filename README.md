@@ -1,6 +1,5 @@
 # Computer-Vision
-Computer-Vision
-# Plants Seedling Classification
+Plants Seedling Classification
 Project delivered in March 2025
 Repository includes Jupyter notebook with Python code written for data analysis and neural network building
 # Problem Statement
